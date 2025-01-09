@@ -2,12 +2,14 @@
 A simple JavaScript-based password generator that allows users to generate random passwords based on customizable criteria, such as length and inclusion of lowercase letters, uppercase letters, numbers, and symbols.
 
 ## Features:
-Specify password length.
+Specify password length.<br>
 Toggle inclusion of:
-Lowercase letters
-Uppercase letters
-Numbers
-Special characters
+<ul>
+  <li>Lowercase Characters</li>
+  <li>Uppercase Characters</li>
+  <li>Numbers</li>
+  <li>Special Characters</li>
+</ul>
 Displays the generated password on the webpage.
 
 ## How It Works:
@@ -24,7 +26,7 @@ A secure, randomly generated password will appear on the screen based on the def
 
 
 ## How to Use:
-Clone or download this repository.
-Open index.html in a browser.
-Click the button to generate a password.
+Clone or download this repository.<br>
+Open index.html in a browser.<br>
+Click the button to generate a password.<br>
 Feel free to customize this project or contribute improvements! 🚀
